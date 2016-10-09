@@ -66,13 +66,13 @@ Finally, start the server with:
 
 (macOS/Linux/Unix)
 ```
-export FLASK_APP=sample
+export FLASK_APP=app.py
 flask run
 ```
 
 (Windows)
 ```
-set FLASK_APP=sample
+set FLASK_APP=app.py
 flask run
 ```
 
