@@ -1,0 +1,11 @@
+**/__pycache__/
+.vscode/
+.virtualenv/
+typings
+node_modules
+.cache/
+.eggs/
+*.egg-info/
+*.js
+*.js.map
+!systemjs.config.js
