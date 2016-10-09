@@ -12,7 +12,7 @@ Features:
 * Angular release 2.0.2
 * angular2-jwt
 
-See [JWT authentication with Flask and Angular 2: a simple end-to-end example]() for more info.
+See [JWT authentication with Flask and Angular 2: a simple end-to-end example](http://keathmilligan.net/jwt-authentication-with-flask-and-angular-2-a-simple-end-to-end-example/) for more info.
 
 ## Quick-Start:
 
@@ -92,4 +92,4 @@ npm install
 npm start
 ```
 
-See [JWT authentication with Flask and Angular 2: a simple end-to-end example]() for a full description of the project.
+See [JWT authentication with Flask and Angular 2: a simple end-to-end example](http://keathmilligan.net/jwt-authentication-with-flask-and-angular-2-a-simple-end-to-end-example/) for a full description of the project.
